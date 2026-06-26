@@ -17,6 +17,12 @@ A structured learning path covering the core DevOps skills. Start at the top and
 6. [06 — Practices](06-Practices.md)
    - Production support (L2/L3), root cause analysis, post-release validation
 
+### Apply & test your knowledge
+7. [07 — Hands-On Projects](07-HandsOn-Projects.md)
+   - 8 simple, runnable projects from first script to full CI/CD + cloud deploy
+8. [08 — Interview Practice](08-Interview-Practice.md)
+   - Topic Q&A, scenarios, resume-defence questions, rapid-fire, 1-week plan
+
 ## How to use these notes
 
 - Each topic starts with **"What it is"** and **"Why it matters"** before going into mechanics.
