@@ -283,8 +283,10 @@ git push -u origin main
 
 **5.2** Create the workflow file. The folder path matters exactly:
 ```powershell
-mkdir -p .github/workflows
+New-Item -ItemType Directory -Force .github\workflows | Out-Null
 ```
+> Note: this is the PowerShell way. The Linux `mkdir -p .github/workflows` only works in
+> Git Bash, not PowerShell (`-p` isn't a PowerShell flag).
 Create `.github/workflows/ci.yml`:
 ```yaml
 name: CI
