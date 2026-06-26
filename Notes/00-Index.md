@@ -20,7 +20,9 @@ A structured learning path covering the core DevOps skills. Start at the top and
 ### Apply & test your knowledge
 7. [07 — Hands-On Projects](07-HandsOn-Projects.md)
    - 8 simple, runnable projects from first script to full CI/CD + cloud deploy
-8. [08 — Interview Practice](08-Interview-Practice.md)
+8. [09 — Projects: Step-by-Step](09-Projects-StepByStep.md)
+   - Click-by-click execution guide for every project (Windows/PowerShell) with troubleshooting
+9. [08 — Interview Practice](08-Interview-Practice.md)
    - Topic Q&A, scenarios, resume-defence questions, rapid-fire, 1-week plan
 
 ## How to use these notes

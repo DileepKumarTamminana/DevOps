@@ -8,6 +8,9 @@ Do them in order — later ones reuse earlier ones.
 > [Node.js](https://nodejs.org) (or Python), and a free [GitHub](https://github.com) account.
 > A free [Azure](https://azure.microsoft.com/free/) and/or [AWS](https://aws.amazon.com/free/) account for the cloud projects.
 
+> 👉 **For exact, click-by-click commands** (Windows/PowerShell) with expected output and
+> troubleshooting for every project below, see [[09-Projects-StepByStep]].
+
 ---
 
 ## Project 1 — Your first shell script (Bash + PowerShell)
