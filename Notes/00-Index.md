@@ -12,22 +12,30 @@ A structured learning path covering the core DevOps skills. Start at the top and
    - Cloud basics, Microsoft Azure (AZ-900 / DP-900), AWS, Azure DevOps
 4. [03 — Infrastructure & Configuration](03-Infrastructure-and-Config.md)
    - Docker, Linux administration, environment configuration, release management
-5. [04 — Monitoring & ITSM](04-Monitoring-and-ITSM.md)
+5. [12 — Kubernetes Basics](12-Kubernetes-Basics.md)
+   - Container orchestration, Pods/Deployments/Services, kubectl, AKS/EKS (next step after Docker)
+6. [04 — Monitoring & ITSM](04-Monitoring-and-ITSM.md)
    - ServiceNow, incident management, change management, SLA tracking
-6. [05 — Scripting & Query](05-Scripting-and-Query.md)
+7. [05 — Scripting & Query](05-Scripting-and-Query.md)
    - Bash, PowerShell, SQL
-7. [06 — Practices](06-Practices.md)
+8. [06 — Practices](06-Practices.md)
    - Production support (L2/L3), root cause analysis, post-release validation
 
 ### Apply & test your knowledge
-7. [07 — Hands-On Projects](07-HandsOn-Projects.md)
+9. [07 — Hands-On Projects](07-HandsOn-Projects.md)
    - 8 simple, runnable projects from first script to full CI/CD + cloud deploy
-8. [09 — Projects: Step-by-Step](09-Projects-StepByStep.md)
-   - Click-by-click execution guide for every project (Windows/PowerShell) with troubleshooting
-9. [10 — Complete AWS Pipeline Project](10-AWS-Pipeline-Project.md)
-   - Full end-to-end: app → GitHub Actions → ECR → App Runner → live "Welcome Text" + smoke test
-10. [08 — Interview Practice](08-Interview-Practice.md)
+10. [09 — Projects: Step-by-Step](09-Projects-StepByStep.md)
+    - Click-by-click execution guide for every project (Windows/PowerShell) with troubleshooting
+11. [10 — Complete AWS Pipeline Project](10-AWS-Pipeline-Project.md)
+    - Full end-to-end: app → GitHub Actions → ECR → App Runner → live "Welcome Text" + smoke test
+12. [08 — Interview Practice](08-Interview-Practice.md)
     - Topic Q&A, scenarios, resume-defence questions, rapid-fire, 1-week plan
+
+### Reference & revision
+13. [13 — Glossary & Acronyms](13-Glossary-and-Acronyms.md)
+    - DevOps A–Z: every acronym expanded + concept definitions
+14. [14 — Flashcards / Quick Revision](14-Flashcards-Quick-Revision.md)
+    - Active-recall Q&A across all topics + spaced-repetition plan
 
 ## How to use these notes
 
